@@ -1,0 +1,87 @@
+[
+  {
+    "position": "Web Development & APIs",
+    "company": "I have built backend services and REST APIs using Node.js and Flask and frontend apps using React.js, which will be useful for integrating performance reports into a web interface.",
+    "duration": "",
+    "location": "",
+    "image": "/company/image.svg",
+    "url": "https://www.test.me/",
+    "responsibilities": [
+      "",
+      ""
+    ],
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "position": "Cross-Platform Development",
+    "company": "I have worked with MAKE and Docker and I am familiar with Windows, Linux, and FreeBSD, which is crucial for ensuring compatibility in this project.",
+    "duration": "",
+    "location": "",
+    "image": "/company/image.svg",
+    "url": "httsp://test.com",
+    "responsibilities": [
+      "",
+      ""
+    ],
+    "color": {
+      "h": "206",
+      "s": "59%",
+      "l": "44%"
+    }
+  },
+  {
+    "position": "Automated Testing & CI/CD",
+    "company": "Experience in GitHub Actions for setting up workflows and automating tests.",
+    "duration": "",
+    "location": "",
+    "image": "/company/image.svg",
+    "url": "https://test.com/",
+    "responsibilities": [
+      "",
+      ""
+    ],
+    "color": {
+      "h": "240",
+      "s": "100%",
+      "l": "45%"
+    }
+  },
+  {
+    "position": "Python Data Analysis & Visualization",
+    "company": "I analyzed real-world datasets (e.g, government survey reports) using Python libraries like NumPy and Pandas, and bring insights to life with Matplotlib and Seaborn—turning raw data into compelling visual stories.",
+    "duration": "",
+    "location": "",
+    "image": "/company/image.svg",
+    "url": "https://www.test.com/",
+    "responsibilities": [
+      "",
+      ""
+    ],
+    "color": {
+      "h": "210",
+      "s": "0%",
+      "l": "90%"
+    }
+  },
+  {
+    "position": "Data Structures, Algorithms & ML Concepts",
+    "company": "I’m building a solid foundation in DSA and exploring core machine learning algorithms—sharpening my problem-solving skills and learning how smart systems think.",
+    "duration": "",
+    "location": "",
+    "image": "/company/image.svg",
+    "url": "https://www.test.com/",
+    "responsibilities": [
+      "",
+      ""
+    ],
+    "color": {
+      "h": "210",
+      "s": "0%",
+      "l": "90%"
+    }
+  }
+]

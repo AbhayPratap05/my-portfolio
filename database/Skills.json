@@ -1,0 +1,72 @@
+[
+  {
+    "icon": "IconJS",
+    "image": "/icon/icon-js.svg",
+    "title": "JavaScript",
+    "subtitle": "Vanilla, jQuery",
+    "description": "I bring websites to life with JavaScript, adding interactive features and optimizing performance with clean and efficient code."
+  },
+  {
+    "icon": "IconReact",
+    "image": "/icon/icon-react.svg",
+    "title": "React JS",
+    "subtitle": "Next.js, Vercel",
+    "description": "Using React, I craft scalable user interfaces with components, state management, and virtual DOM manipulation for seamless web applications."
+  },
+  {
+    "icon": "IconNode",
+    "image": "/icon/icon-node.svg",
+    "title": "Node JS",
+    "subtitle": "Express JS, REST APIs",
+    "description": "With Node.js, I build fast and scalable backend services, handle asynchronous operations, and create RESTful APIs to power dynamic web applications."
+  },
+  {
+    "icon": "IconSQLite",
+    "image": "/icon/icon-sqlite.svg",
+    "title": "SQLite",
+    "subtitle": "PostgreSQL",
+    "description": "I use SQLite and PostgreSQL to manage structured data efficiently—leveraging SQLite for lightweight local storage and PostgreSQL for scalable, production-ready relational databases with advanced querying capabilities."
+  },
+  {
+    "icon": "IconDocker",
+    "image": "/icon/icon-docker.svg",
+    "title": "Docker",
+    "subtitle": "DevOps",
+    "description": "I use Docker to containerize applications, streamline development workflows, and ensure consistent environments from development to deployment."
+  },
+  {
+    "icon": "IconCMake",
+    "image": "/icon/icon-cmake.svg",
+    "title": "C Make",
+    "subtitle": "Make, Automation",
+    "description": "I use CMake to automate the build process in C/C++ projects, generating platform-independent build files and integrating seamlessly with Make for efficient compilation workflows."
+  },
+  {
+    "icon": "IconGitActions",
+    "image": "/icon/icon-gitactions.svg",
+    "title": "GitHub Actions",
+    "subtitle": "CI/CD, Workflow Automation",
+    "description": "I use GitHub Actions to automate workflows, run tests, build projects, and deploy applications—enabling smooth CI/CD pipelines directly from my repositories."
+  },
+  {
+    "icon": "IconPython",
+    "image": "/icon/icon-python.svg",
+    "title": "Python",
+    "subtitle": "Flask, NumPy, Scikit-learn",
+    "description": "I use Python for web development with Flask, data manipulation with NumPy, and building intelligent models using Scikit-learn—combining versatility and simplicity to create impactful projects."
+  },
+  {
+    "icon": "IconDlang",
+    "image": "/icon/icon-dlang.svg",
+    "title": "D",
+    "subtitle": "Systems Programming, Performanceh",
+    "description": "I explore the D programming language for c-like syntax and system-level development. I also contribute to the D Language Foundation through open-source projects."
+  },
+  {
+    "icon": "IconCpp",
+    "image": "/icon/icon-cpp.svg",
+    "title": "C++",
+    "subtitle": "OOP, STL",
+    "description": "I use C++ for building efficient apps with OOP and STL, while learning DSA to sharpen my problem-solving skills."
+  }
+]

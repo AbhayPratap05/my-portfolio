@@ -1,0 +1,74 @@
+{
+  "works": {
+    "isActive": false,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Works",
+    "description": "Here's a curated selection showcasing my expertise and the achieved results.",
+    "image": "",
+    "link": "#works"
+  },
+  "skills": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Skills",
+    "description": "From smashing bugs to shipping code, here’s a peek at the tech I wrangle daily.",
+    "image": "",
+    "link": "#skills"
+  },
+  "experience": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Experience",
+    "description": "From late-night coding marathons to real-world projects — here’s where I’ve been and what I’ve been up to.",
+    "image": "",
+    "link": "#experience"
+  },
+  "resume": {
+    "isActive": true,
+    "showOnNavigation":  true,
+    "showOnFooter":  true,
+    "title": "Resume",
+    "description": "A quick scroll through my journey — projects, skills, and education, all packed into one neat little file.",
+    "image": "",
+    "link": "#resume"
+  },
+  "contact": {
+    "isActive":  true,
+    "showOnNavigation":  true,
+    "showOnFooter":  false,
+    "title": "Contact",
+    "description": "Now it’s your turn to say hi. I hope to hear from you!",
+    "image": "",
+    "link": "#footer"
+  },
+  "instagram": {
+    "isActive":  false,
+    "showOnNavigation":  false,
+    "showOnFooter":  false,
+    "title": "Instagram",
+    "description": "Good memories, best times. My photo journal.",
+    "image": "",
+    "link": "https://www.instagram.com/_abhaypratap_05/"
+  },
+  "about": {
+    "isActive":  false,
+    "showOnNavigation": false,
+    "showOnFooter": false,
+    "title": "About",
+    "description": "I design & develop modern and accessible web interfaces.",
+    "image": "",
+    "link": "/about"
+  },
+  "blog": {
+    "isActive":  false,
+    "showOnNavigation":  false,
+    "showOnFooter":  false,
+    "title": "Blog",
+    "description": "Articles focused on CSS, HTML, JavaScript, and other frontend stuff.",
+    "image": "",
+    "link": "/blog"
+  }
+}

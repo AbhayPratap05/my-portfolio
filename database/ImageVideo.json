@@ -1,0 +1,75 @@
+[
+  {
+    "url": "/gallery/test.JPG",
+    "date": "July 2022",
+    "location": "Dehradun",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/test.jpg",
+    "date": "December 2023",
+    "location": "Dehradun",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/test.JPG",
+    "date": "30 August",
+    "location": "Dehradun",
+    "direction": "horizontal"
+  },
+  {
+    "url": "/gallery/test.jpg",
+    "date": "April 2018",
+    "location": "Dehradun",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/test.jpg",
+    "date": "March 2021",
+    "location": "Dehradun",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/test.jpg",
+    "date": "April 2023",
+    "location": "Dehradun",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/test.jpg",
+    "date": "July 2020",
+    "location": "Dehradun",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/test.jpg",
+    "date": "January 2021",
+    "location": "Dehradun",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/test.jpg",
+    "date": "July 2021",
+    "location": "Dehradun",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/test.jpg",
+    "date": "July 2022",
+    "location": "Dehradun",
+    "direction": "horizontal"
+  },
+  {
+    "url": "/gallery/test.png",
+    "date": "February 2021",
+    "location": "Dehradun",
+    "direction": "vertical"
+  },
+  {
+    "url": "/gallery/test.jpg",
+    "date": "July 2021",
+    "location": "Dehradun",
+    "direction": "vertical"
+  }
+
+]

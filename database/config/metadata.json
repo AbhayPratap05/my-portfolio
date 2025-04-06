@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "Abhay Pratap",
+    "title": "AbhayPratap",
+    "description": "I like turning ideas into projects, one Git commit and caffeine-fueled bug at a time.",
+    "timeZone": "Asia/Kolkata",
+    "locale": "en-IN"
+  },
+  "personal": {
+    "name": "Abhay",
+    "surname": "Pratap",
+    "email": "abhaypratap.2005p@gmail.com",
+    "phone": "(+91) 7817972985",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "country": "India",
+    "username": "@abhaypratap",
+    "resumeURL": "https://docs.google.com/document/d/e/2PACX-1vQKqFxeWKNxoZTSt8FmK54oGnx6QSd_5HIQNxklrsIsytTIN_tl1-unV7KDFKNL58hYzLrCtNIW3uVp/pub"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/_abhaypratap_05/",
+    "linkedin": "https://www.linkedin.com/in/abhaypratap05/",
+    "github": "https://github.com/AbhayPratap05"
+  },
+  "content": {
+    "verse": "“Stay curious, stay humble, keep building.”"
+  }
+}
