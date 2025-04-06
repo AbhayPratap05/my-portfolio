@@ -50,7 +50,7 @@ export default function Resume() {
                         <div className={`${styles.card} ${styles.cardV1}`}>
                             <div className={styles.cardInner}>
                                 <div className={styles.cardTitle}>Abhay Pratap</div>
-                                <div className={styles.cardDesc}>Senior Frontend Developer</div>
+                                <div className={styles.cardDesc}>Caffeine-Fueled Code Crafter</div>
                                 <hr/>
                                 <p>I’m Abhay, I love turning ideas into projects, exploring web development, open-source, and automation. Whether it’s building responsive interfaces with React or diving into DSA and system-level code, I enjoy solving problems and learning something new every day. Always curious, always building.
                                 </p>
