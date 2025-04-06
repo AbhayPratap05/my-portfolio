@@ -135,7 +135,7 @@
 .skeleton{
   position: absolute;
   right: 0;
-  bottom: 25rem;
+  bottom: 0;
   pointer-events: none;
   z-index: 0;
   @include respond-below(sm) {
