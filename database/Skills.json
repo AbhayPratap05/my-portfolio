@@ -59,13 +59,13 @@
     "icon": "IconDlang",
     "image": "/icon/icon-dlang.svg",
     "title": "D",
-    "subtitle": "Systems Programming, Performanceh",
+    "subtitle": "Systems Programming, Performance",
     "description": "I explore the D programming language for c-like syntax and system-level development. I also contribute to the D Language Foundation through open-source projects."
   },
   {
     "icon": "IconCpp",
     "image": "/icon/icon-cpp.svg",
-    "title": "C++",
+    "title": "C, C++",
     "subtitle": "OOP, STL",
     "description": "I use C++ for building efficient apps with OOP and STL, while learning DSA to sharpen my problem-solving skills."
   }
